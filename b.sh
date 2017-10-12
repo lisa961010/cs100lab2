@@ -1,3 +1,3 @@
 #!/bin/sh
-b="Yunru Ge"
-echo $b
+echo $1 $2
+
